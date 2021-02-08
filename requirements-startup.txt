@@ -41,7 +41,7 @@ googletrans
 gsearch
 hachoir
 heroku3
-httplib2==0.13.1
+httplib2==0.19.0
 humanize
 hurry.filesize
 instantmusic
